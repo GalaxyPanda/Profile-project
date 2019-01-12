@@ -1,0 +1,53 @@
+body {
+  background-image: url("../images/background-board-carpentry-326333.jpg");
+  background-size: cover;
+  background-color: #352518;
+  background-blend-mode: soft-light;
+}
+
+.intro{
+ text-align: center;
+}
+
+.container{
+	color:  #b07c4f;
+	background-image: url("../images/architecture-dark-empty-1576405.jpg");
+	background-size: cover;
+	background-color: rgba(0,0,0,0.5);
+	margin-top: 0px;
+	padding-bottom:150px;
+	padding-top: 50px;
+	padding-left: 100px;
+	position: relative;
+	background-blend-mode: soft-light;
+
+}
+
+
+
+.Skills{
+	margin-top:30px;
+
+}
+
+#intro{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	position: fixed;
+	color: #828c51
+}
+
+
+.points{
+	padding-top: 50px;
+}
+
+.points h2{
+	color: #A6C36F;
+	font-family: 'Lato', sans-serif;
+}
+
+.points ul{
+	color:#BEEF9E;
+	font-family: 'Open Sans', sans-serif;
+}
