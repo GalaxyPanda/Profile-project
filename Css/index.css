@@ -1,8 +1,9 @@
 body {
   background-image: url("../images/background-board-carpentry-326333.jpg");
   background-size: cover;
-  background-color: #352518;
+  background-color: #21170e;
   background-blend-mode: soft-light;
+
 }
 
 .intro{
@@ -15,15 +16,20 @@ body {
 	background-size: cover;
 	background-color: rgba(0,0,0,0.5);
 	margin-top: 0px;
-	padding-bottom:150px;
+	margin-left: 250px;
+	padding-bottom: 50px;
 	padding-top: 50px;
 	padding-left: 100px;
-	position: relative;
+	position: absolute;
 	background-blend-mode: soft-light;
-
+	width:100%;
 }
 
 
+.work{
+	padding-bottom: 50px;
+
+}
 
 .Skills{
 	margin-top:30px;
@@ -33,7 +39,7 @@ body {
 #intro{
 	text-align: center;
 	font-family: 'Montserrat', sans-serif;
-	position: fixed;
+	position: sticky;
 	color: #828c51
 }
 
